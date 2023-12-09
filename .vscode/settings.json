@@ -1,3 +1,9 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "discord.enabled": false,
+    "discord.removeRemoteRepository": true,
+    "discord.removeLowerDetails": false,
+    "discord.removeTimestamp": false,
+    "discord.removeDetails": false,
+    "discord.lowerDetailsIdling": "Hello "
 }
